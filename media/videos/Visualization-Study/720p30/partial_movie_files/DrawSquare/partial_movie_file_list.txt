@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/OWNER/Dropbox/01_UNIST/00_Activities/#_Clubs/EOE/2023/20230914-20231123_Visualization_Study/Visualization-Study/media/videos/Visualization-Study/720p30/partial_movie_files/DrawSquare/274514146_238858441_223132457.mp4'
-file 'file:C:/Users/OWNER/Dropbox/01_UNIST/00_Activities/#_Clubs/EOE/2023/20230914-20231123_Visualization_Study/Visualization-Study/media/videos/Visualization-Study/720p30/partial_movie_files/DrawSquare/2789044632_329969645_923852774.mp4'
